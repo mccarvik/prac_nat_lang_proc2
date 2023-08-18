@@ -3,3 +3,6 @@
 
 # Ignore big data
 /data/bigdata/
+
+# Ignore custom git
+/7ch/custom_coreference/
