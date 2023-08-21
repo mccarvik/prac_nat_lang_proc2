@@ -6,3 +6,6 @@
 
 # Ignore custom git
 /7ch/custom_coreference/
+
+# Ignore big models
+/models/biobert_v1.1_pubmed/
