@@ -9,3 +9,6 @@
 
 # Ignore big models
 /models/biobert_v1.1_pubmed/
+
+# subgit
+/lexpredict-lexnlp/
